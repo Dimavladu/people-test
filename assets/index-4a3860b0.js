@@ -1,1 +1,0 @@
-import{_ as s,o as c,c as t,a as e}from"./index-eed354d3.js";const o={},n=e("div",{class:"container"},[e("h1",{class:"h1"},"Главная"),e("div",{class:"mt-5"},"Добро пожаловать на главную страницу тестового задания")],-1),a=[n];function r(_,i){return c(),t("section",null,a)}const l=s(o,[["render",r]]);export{l as default};
