@@ -1,0 +1,1 @@
+import{_ as s,o as c,c as o,B as _,C as t,a}from"./index-eed354d3.js";const d={},n=e=>(_("data-v-f8fb5e8c"),e=e(),t(),e),r={class:"flex justify-center"},f=n(()=>a("div",{class:"loader"},null,-1)),p=[f];function i(e,l){return c(),o("div",r,p)}const h=s(d,[["render",i],["__scopeId","data-v-f8fb5e8c"]]);export{h as B};

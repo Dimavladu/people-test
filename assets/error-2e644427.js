@@ -1,0 +1,1 @@
+import{_ as c,o as s,c as o,a as e}from"./index-eed354d3.js";const t={},n=e("div",{class:"container"},[e("h1",{class:"h1"},"404")],-1),r=[n];function a(_,i){return s(),o("section",null,r)}const d=c(t,[["render",a]]);export{d as default};
